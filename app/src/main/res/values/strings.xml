@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="code">&#8230;</string>
+    <string name="country">Country</string>
+    <string name="etCodeMain">Code</string>
+    <string name="etCountryMain">Enter country name</string>
+    <string name="src">Search</string>
+    <string name="cl">Clear</string>
+    <string name="shw">Show contacts</string>
+    <string name="crt">Create contact</string>
+    <string name="srch">Search</string>
+    <string name="enter_fname">Enter first name</string>
+    <string name="enter_lname">Enter last name..</string>
+    <string name="enter_add">Enter address..</string>
+    <string name="enter_phone">Enter phone..</string>
+    <string name="enter_email">Enter email..</string>
+    <string name="doe">Date of entry:</string>
+    <string name="ac">Area code:</string>
+    <string name="delete">DELETE</string>
+    <string name="add">ADD</string>
+    <string name="inputEntry">This field needs to be filled</string>
+    <string name="noContacts">No contacts found!</string>
+    <string name="clrs">CLEAR</string>
+    <string name="srcs">SEARCH</string>
+</resources>
